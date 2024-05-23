@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+    font-family: Consolas;
+}
+.formul{
+    height: 23%;
+    width: 20%;
+    padding: 1% 2% 1% 2%;
+    margin: 5% 0 0 39%;
+    border: 1px solid red;
+    border-radius: 1%;
+    box-shadow: 2% 2% 2% 1% rgba(0, 0, 0, 0.2);
+}
+/*form{
+    display: inline-block;
+    align-items: column;
+}*/
+.img{
+    height: 4%;
+    width: 40%;
+    margin: 0 0 0 30%;
+}
+/*.img2{
+    height: 5%;
+    width: 14%;
+    margin: 0 0 0 60%;
+}*/
+h2{
+    text-align: center;
+}
+table{
+    margin: 2% 0 0 0;
+}
+input{
+    width: 95%;
+    height: 57%;
+    padding: 3% 3% 3% 3%;
+    margin: 5% 0 5% 28%;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.ins{
+    width: 30%;
+    height: 28%;
+    margin: 5% 0 5% 12%;
+    border:1px solid red;
+    border-radius: 3px;
+}
+.con{
+    width: 30%;
+    height: 28%;
+    margin: 5% 0 5% 17%;
+    border:1px solid red;
+    border-radius: 3px;
+}
+p{
+    text-align: center;
+}

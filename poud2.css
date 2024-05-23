@@ -1,0 +1,97 @@
+body{
+    background-color: white;
+    font-family: Consolas;
+}
+legend{
+    margin: 0 0 3% 0;
+}
+fieldset{
+    width: 60%;
+    /*height: 5%;*/
+    padding: 0 0 0 1%;
+    margin: 2% 0 0 20%;
+    border:1px solid red;
+    border-radius: 3px;
+    /*box-shadow: 1px black;*/
+}
+/*input{
+    margin: 0 0 0 14%;
+}*/
+#nom{
+    margin-left: 1.8%;
+}
+#prenom{
+    margin-left: 25.4%;
+}
+.b{
+    margin-left: 45%;
+}
+#bsex{
+    margin-left: 2%;
+}
+.g{
+    margin-left: 3%;
+}
+#gsex{
+    margin-left: 2%;
+}
+#date{
+    margin-left: 3.3%;
+}
+#lieu{
+    margin-left: 34%;
+}
+#nom_pere{
+    margin-left: 30.5%;
+}
+#date_pere{
+    margin-left: 8.3%;
+}
+#nat_pere{
+    margin-left: 24.7%;
+}
+#prof_pere{
+    margin-left: 26%;
+}
+#nom_mere{
+    margin-left: 30.7%;
+}
+#nom_mere{
+    margin-left: 27.3%;
+}
+#date_mere{
+    margin-left: 5%;
+}
+#nat_mere{
+    margin-left: 21.5%;
+}
+#nat_mere{
+    margin-left: 22.7%;
+}
+#nom_officier{
+    margin-left: 27.3%;
+}
+.back{
+    /*text-align: left;
+    text-decoration: none;*/
+    width: 7%;
+    height: 2%;
+    padding: 1% 0 1% 0;
+    margin: 4% 0 2% 27%;
+    border:1px solid red;
+    border-radius: 3px;
+}
+.front{
+    width: 7%;
+    height: 2%;
+    padding: 1% 0 1% 0;
+    margin: 4% 0 2% 27%;
+    border:1px solid red;
+    border-radius: 3px;
+}
+/*a[href="https://pound3.html"]{
+    margin: 0 0 0 25%;
+}
+input[name*="nom_attrib"]{
+
+}*/

@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+    font-family: Consolas;
+}
+fieldset{
+    width: 70%;
+    height: 40%;
+    margin: 4% 0 0 14%;
+    border: 1px solid red;
+    border-radius: 0.5%;
+}
+.back{
+    width: 8%;
+    height: 2%;
+    padding: 0 1% 0 1%;
+    margin: 3% 0 2% 20%;
+    border:1px solid red;
+    border-radius: 3px;
+}
+.front{
+    width: 5%;
+    height: 2%;
+    padding: 1% 0 1% 0;
+    margin: 3% 0 1% 30%;
+    /*border:1px solid red;*/
+}
